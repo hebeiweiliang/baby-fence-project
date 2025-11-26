@@ -21,3 +21,4 @@
 只需要一个网页，就能在浏览器里跑目标检测，实时盯着宝宝是不是还在画面中央的安全区。
 
 我把它叫做：「宝宝看护电子围栏」。
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/50e8b73a-ef33-4a7f-8724-b8138915ee75" />
